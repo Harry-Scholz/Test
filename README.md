@@ -1,2 +1,1 @@
-# Fragen und Antworten!
-Was für Fragen......?
+# Fragen und Antworten
